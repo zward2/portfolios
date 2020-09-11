@@ -3,7 +3,8 @@ all cohort portfolios
 
 ## Requirements
 
-- use of html and css is fine
+- use of html and css is fine for a solid grade
+- extra experience and credit for any use of react, express etc as a second/advanced project submission
 - link to github and featured repos
 - links to any hosted projects such as industry project or personal project
 - online resume in html is an option as well
