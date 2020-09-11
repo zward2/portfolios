@@ -19,7 +19,7 @@ Many sites:
 
 ## Hosting your portfolio project
 
-### Free Hostint
+### Free Hosting
 
 - github pages.  See : <https://dev.to/carolmusyoka/how-to-create-a-simple-portfolio-with-github-pages-1ffd>
 - heroku
