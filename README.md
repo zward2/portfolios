@@ -3,6 +3,7 @@ all cohort portfolios
 
 ## Requirements
 
+- use of html and css is fine
 - link to github and featured repos
 - links to any hosted projects such as industry project or personal project
 - online resume in html is an option as well
@@ -21,8 +22,13 @@ Many sites:
 
 ### Free Hosting
 
-- github pages.  See : <https://dev.to/carolmusyoka/how-to-create-a-simple-portfolio-with-github-pages-1ffd>
-- heroku
+#### Minimal Setup Required
+- github pages. See : <https://dev.to/carolmusyoka/how-to-create-a-simple-portfolio-with-github-pages-1ffd>
+- <https://www.netlify.com/>
+- <https://vercel.com/>
+
+### Simple by More In Depth Configuration
+- <https://dashboard.heroku.com/>
 
 
 
